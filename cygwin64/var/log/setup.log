@@ -1,0 +1,301 @@
+2024/07/29 16:26:12 Starting cygwin install, version 2.932
+2024/07/29 16:26:12 User has backup/restore rights
+2024/07/29 16:26:12 User has symlink creation right
+2024/07/29 16:26:12 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2024/07/29 16:26:12 Current Directory: C:\Users\seriab\Downloads
+2024/07/29 16:26:15 source: network install
+2024/07/29 16:26:16 root: C:\cygwin64 system
+2024/07/29 16:26:16 Changing gid to Administrators
+2024/07/29 16:26:19 Selected local directory: C:\Users\seriab\Downloads
+2024/07/29 16:26:20 net: Preconfig
+2024/07/29 16:26:23 site: https://mirrors.kernel.org/sourceware/cygwin/
+2024/07/29 16:26:27 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2024/07/29 16:26:27 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2024/07/29 16:26:27 solving: 38 tasks, update: yes, use test packages: no
+2024/07/29 16:27:52 solving: 78 tasks, update: no, use test packages: no
+2024/07/29 16:27:52 Augmented Transaction List:
+2024/07/29 16:27:52    0 install libpopt-common   1.19-1                   
+2024/07/29 16:27:52    1 install terminfo         6.5+20240427-1           
+2024/07/29 16:27:52    2 install tzdata           2024a-1                  
+2024/07/29 16:27:52    3 install cygwin           3.5.3-1                  
+2024/07/29 16:27:52    4 install libiconv2        1.17-1                   
+2024/07/29 16:27:52    5 install libintl8         0.22.4-1                 
+2024/07/29 16:27:52    6 install libncursesw10    6.5+20240427-1           
+2024/07/29 16:27:52    7 install libreadline7     8.2-2                    
+2024/07/29 16:27:52    8 install bash             5.2.21-1                 
+2024/07/29 16:27:52    9 install libgcc1          12.4.0-3                 
+2024/07/29 16:27:52   10 install crypto-policies  20190218-1               
+2024/07/29 16:27:52   11 install base-cygwin      3.8-2                    
+2024/07/29 16:27:52   12 install libzstd1         1.5.6-1                  
+2024/07/29 16:27:52   13 install zlib0            1.3.1-1                  
+2024/07/29 16:27:52   14 install libkrb5support0  1.15.2-2                 
+2024/07/29 16:27:52   15 install libcom_err2      1.44.5-1                 
+2024/07/29 16:27:52   16 install libedit0         20221030-4               
+2024/07/29 16:27:52   17 install libcrypt2        4.4.20-1                 
+2024/07/29 16:27:52   18 install cygrunsrv        1.64-1                   
+2024/07/29 16:27:52   19 install libxxhash0       0.8.2-1                  
+2024/07/29 16:27:52   20 install which            2.20-2                   
+2024/07/29 16:27:52   21 install vim-minimal      9.0.2155-2               
+2024/07/29 16:27:52   22 install tzcode           2024a-1                  
+2024/07/29 16:27:52   23 install sshpass          1.06-1                   
+2024/07/29 16:27:52   24 install sed              4.9-1                    
+2024/07/29 16:27:52   25 install run              1.3.4-2                  
+2024/07/29 16:27:52   26 install ncurses          6.5+20240427-1           
+2024/07/29 16:27:52   27 install mintty           3.7.4-1                  
+2024/07/29 16:27:52   28 install login            1.13-1                   
+2024/07/29 16:27:52   29 install libuuid1         2.39.3-2                 
+2024/07/29 16:27:52   30 install libtasn1_6       4.14-1                   
+2024/07/29 16:27:52   31 install libstdc++6       12.4.0-3                 
+2024/07/29 16:27:52   32 install libsmartcols1    2.39.3-2                 
+2024/07/29 16:27:52   33 install libpopt0         1.19-1                   
+2024/07/29 16:27:52   34 install libpipeline1     1.5.6-1                  
+2024/07/29 16:27:52   35 install libpcre2_8_0     10.44-1                  
+2024/07/29 16:27:52   36 install libpcre1         8.45-1                   
+2024/07/29 16:27:52   37 install liblzma5         5.6.2-1                  
+2024/07/29 16:27:52   38 install liblz4_1         1.9.4-1                  
+2024/07/29 16:27:52   39 install libgmp10         6.3.0-1                  
+2024/07/29 16:27:52   40 install libgdbm6         1.18.1-1                 
+2024/07/29 16:27:52   41 install libffi6          3.2.1-2                  
+2024/07/29 16:27:52   42 install libbz2_1         1.0.8-1                  
+2024/07/29 16:27:52   43 install libblkid1        2.39.3-2                 
+2024/07/29 16:27:52   44 install libattr1         2.5.1-1.20.g0981a7bfe487 
+2024/07/29 16:27:52   45 install libargp          20230708-2               
+2024/07/29 16:27:52   46 install ipc-utils        1.1-1                    
+2024/07/29 16:27:52   47 install hostname         3.13-1                   
+2024/07/29 16:27:52   48 install gzip             1.13-1                   
+2024/07/29 16:27:52   49 install editrights       1.04-1                   
+2024/07/29 16:27:52   50 install diffutils        3.10-1                   
+2024/07/29 16:27:52   51 install dash             0.5.12-5                 
+2024/07/29 16:27:52   52 install alternatives     1.26-1                   
+2024/07/29 16:27:52   53 install libk5crypto3     1.15.2-2                 
+2024/07/29 16:27:52   54 install libuchardet0     0.0.8-1                  
+2024/07/29 16:27:52   55 install cygutils         1.4.17-1                 
+2024/07/29 16:27:52   56 install grep             3.11-1                   
+2024/07/29 16:27:52   57 install less             643-1                    
+2024/07/29 16:27:52   58 install xz               5.6.2-1                  
+2024/07/29 16:27:52   59 install zstd             1.5.6-1                  
+2024/07/29 16:27:52   60 install libmpfr6         4.2.1-1                  
+2024/07/29 16:27:52   61 install libp11-kit0      0.23.20-1                
+2024/07/29 16:27:52   62 install file             5.44-1                   
+2024/07/29 16:27:52   63 install bzip2            1.0.8-1                  
+2024/07/29 16:27:52   64 install libfdisk1        2.39.3-2                 
+2024/07/29 16:27:52   65 install coreutils        9.0-1                    
+2024/07/29 16:27:52   66 install getent           2.18.90-5                
+2024/07/29 16:27:52   67 install rebase           4.6.6-1                  
+2024/07/29 16:27:52   68 install info             7.1-1                    
+2024/07/29 16:27:52   69 install _autorebase      001091-1                 
+2024/07/29 16:27:52   70 install libkrb5_3        1.15.2-2                 
+2024/07/29 16:27:52   71 install groff            1.23.0-1                 
+2024/07/29 16:27:52   72 install gawk             5.3.0-1                  
+2024/07/29 16:27:52   73 install p11-kit-trust    0.23.20-1                
+2024/07/29 16:27:52   74 install p11-kit          0.23.20-1                
+2024/07/29 16:27:52   75 install tar              1.35-2                   
+2024/07/29 16:27:52   76 install util-linux       2.39.3-2                 
+2024/07/29 16:27:52   77 install findutils        4.10.0-1                 
+2024/07/29 16:27:52   78 install libgssapi_krb5_2 1.15.2-2                 
+2024/07/29 16:27:52   79 install csih             0.9.14-1                 
+2024/07/29 16:27:52   80 install ca-certificates  2024.2.66_v8.0.302-1     
+2024/07/29 16:27:52   81 install man-db           2.12.1-1                 
+2024/07/29 16:27:52   82 install base-files       4.3-3                    
+2024/07/29 16:27:52   83 install libssl3          3.0.14-1                 
+2024/07/29 16:27:52   84 install libssl1.1        1.1.1w-1                 
+2024/07/29 16:27:52   85 install openssl          3.0.14-1                 
+2024/07/29 16:27:52   86 install libfido2         1.12.0-1                 
+2024/07/29 16:27:52   87 install rsync            3.3.0-1                  
+2024/07/29 16:27:52   88 install openssh          9.8p1-1                  
+2024/07/29 16:27:55 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/popt/libpopt-common/libpopt-common-1.19-1.tar.xz
+2024/07/29 16:27:55 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-6.5+20240427-1.tar.xz
+2024/07/29 16:27:56 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/tzdata/tzdata-2024a-1.tar.xz
+2024/07/29 16:27:56 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin/cygwin-3.5.3-1.tar.xz
+2024/07/29 16:27:56 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.17-1.tar.xz
+2024/07/29 16:27:57 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.22.4-1.tar.xz
+2024/07/29 16:27:57 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-6.5+20240427-1.tar.xz
+2024/07/29 16:27:57 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-8.2-2.tar.xz
+2024/07/29 16:27:59 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bash/bash-5.2.21-1.tar.xz
+2024/07/29 16:27:59 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-12.4.0-3.tar.zst
+2024/07/29 16:27:59 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/crypto-policies/crypto-policies-20190218-1.tar.xz
+2024/07/29 16:28:00 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-2.tar.xz
+2024/07/29 16:28:00 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zstd/libzstd1/libzstd1-1.5.6-1.tar.zst
+2024/07/29 16:28:00 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.3.1-1.tar.zst
+2024/07/29 16:28:00 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/krb5/libkrb5support0/libkrb5support0-1.15.2-2.tar.xz
+2024/07/29 16:28:01 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/e2fsprogs/libcom_err2/libcom_err2-1.44.5-1.tar.xz
+2024/07/29 16:28:01 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libedit/libedit0/libedit0-20221030-4.tar.xz
+2024/07/29 16:28:01 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libxcrypt/libcrypt2/libcrypt2-4.4.20-1.tar.xz
+2024/07/29 16:28:01 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygrunsrv/cygrunsrv-1.64-1.tar.xz
+2024/07/29 16:28:01 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xxhash/libxxhash0/libxxhash0-0.8.2-1.tar.xz
+2024/07/29 16:28:01 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2
+2024/07/29 16:28:02 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-9.0.2155-2.tar.xz
+2024/07/29 16:28:02 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tzcode/tzcode-2024a-1.tar.xz
+2024/07/29 16:28:02 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/sshpass/sshpass-1.06-1.tar.xz
+2024/07/29 16:28:02 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/sed/sed-4.9-1.tar.xz
+2024/07/29 16:28:03 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz
+2024/07/29 16:28:03 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/ncurses-6.5+20240427-1.tar.xz
+2024/07/29 16:28:03 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mintty/mintty-3.7.4-1.tar.xz
+2024/07/29 16:28:03 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/login/login-1.13-1.tar.xz
+2024/07/29 16:28:03 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.39.3-2.tar.xz
+2024/07/29 16:28:04 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.14-1.tar.xz
+2024/07/29 16:28:04 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-12.4.0-3.tar.zst
+2024/07/29 16:28:04 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.39.3-2.tar.xz
+2024/07/29 16:28:04 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.19-1.tar.xz
+2024/07/29 16:28:04 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.5.6-1.tar.xz
+2024/07/29 16:28:05 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/pcre2/libpcre2_8_0/libpcre2_8_0-10.44-1.tar.zst
+2024/07/29 16:28:05 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.45-1.tar.zst
+2024/07/29 16:28:05 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.6.2-1.tar.zst
+2024/07/29 16:28:05 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/lz4/liblz4_1/liblz4_1-1.9.4-1.tar.xz
+2024/07/29 16:28:05 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.3.0-1.tar.zst
+2024/07/29 16:28:05 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gdbm/libgdbm6/libgdbm6-1.18.1-1.tar.xz
+2024/07/29 16:28:06 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-2.tar.xz
+2024/07/29 16:28:06 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.8-1.tar.xz
+2024/07/29 16:28:06 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.39.3-2.tar.xz
+2024/07/29 16:28:06 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.5.1-1.20.g0981a7bfe487.tar.xz
+2024/07/29 16:28:06 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libargp/libargp-20230708-2.tar.xz
+2024/07/29 16:28:07 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.1-1.tar.xz
+2024/07/29 16:28:07 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+2024/07/29 16:28:07 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gzip/gzip-1.13-1.tar.xz
+2024/07/29 16:28:07 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/editrights/editrights-1.04-1.tar.xz
+2024/07/29 16:28:07 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.10-1.tar.xz
+2024/07/29 16:28:08 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/dash/dash-0.5.12-5.tar.xz
+2024/07/29 16:28:08 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/alternatives/alternatives-1.26-1.tar.xz
+2024/07/29 16:28:08 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/krb5/libk5crypto3/libk5crypto3-1.15.2-2.tar.xz
+2024/07/29 16:28:08 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/uchardet/libuchardet0/libuchardet0-0.0.8-1.tar.zst
+2024/07/29 16:28:08 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygutils/cygutils-1.4.17-1.tar.xz
+2024/07/29 16:28:09 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/grep/grep-3.11-1.tar.xz
+2024/07/29 16:28:09 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/less/less-643-1.tar.xz
+2024/07/29 16:28:09 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/xz-5.6.2-1.tar.zst
+2024/07/29 16:28:09 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zstd/zstd-1.5.6-1.tar.zst
+2024/07/29 16:28:09 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mpfr/libmpfr6/libmpfr6-4.2.1-1.tar.zst
+2024/07/29 16:28:09 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.23.20-1.tar.xz
+2024/07/29 16:28:10 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/file/file-5.44-1.tar.xz
+2024/07/29 16:28:10 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/bzip2-1.0.8-1.tar.xz
+2024/07/29 16:28:10 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libfdisk1/libfdisk1-2.39.3-2.tar.xz
+2024/07/29 16:28:11 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/coreutils/coreutils-9.0-1.tar.xz
+2024/07/29 16:28:11 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-5.tar.xz
+2024/07/29 16:28:11 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rebase/rebase-4.6.6-1.tar.xz
+2024/07/29 16:28:12 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/texinfo/info/info-7.1-1.tar.xz
+2024/07/29 16:28:12 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001091-1.tar.zst
+2024/07/29 16:28:12 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/krb5/libkrb5_3/libkrb5_3-1.15.2-2.tar.xz
+2024/07/29 16:28:20 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/groff/groff-1.23.0-1.tar.zst
+2024/07/29 16:28:21 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gawk/gawk-5.3.0-1.tar.xz
+2024/07/29 16:28:21 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.20-1.tar.xz
+2024/07/29 16:28:21 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-0.23.20-1.tar.xz
+2024/07/29 16:28:22 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tar/tar-1.35-2.tar.zst
+2024/07/29 16:28:24 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/util-linux-2.39.3-2.tar.xz
+2024/07/29 16:28:25 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/findutils/findutils-4.10.0-1.tar.xz
+2024/07/29 16:28:25 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/krb5/libgssapi_krb5_2/libgssapi_krb5_2-1.15.2-2.tar.xz
+2024/07/29 16:28:25 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/csih/csih-0.9.14-1.tar.xz
+2024/07/29 16:28:26 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/ca-certificates/ca-certificates-2024.2.66_v8.0.302-1.tar.zst
+2024/07/29 16:28:27 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/man-db/man-db-2.12.1-1.tar.zst
+2024/07/29 16:28:28 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/base-files/base-files-4.3-3.tar.zst
+2024/07/29 16:28:29 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/libssl3/libssl3-3.0.14-1.tar.zst
+2024/07/29 16:28:31 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/libssl1.1/libssl1.1-1.1.1w-1.tar.zst
+2024/07/29 16:28:32 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/openssl-3.0.14-1.tar.zst
+2024/07/29 16:28:32 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libfido2/libfido2-1.12.0-1.tar.xz
+2024/07/29 16:28:33 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rsync/rsync-3.3.0-1.tar.xz
+2024/07/29 16:28:34 Downloaded C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssh/openssh-9.8p1-1.tar.xz
+2024/07/29 16:28:34 Registry value set: HKEY_LOCAL_MACHINE\Software\Cygwin\setup\rootdir = "C:\cygwin64"
+2024/07/29 16:28:34 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/popt/libpopt-common/libpopt-common-1.19-1.tar.xz
+2024/07/29 16:28:34 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-6.5+20240427-1.tar.xz
+2024/07/29 16:28:35 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/tzdata/tzdata-2024a-1.tar.xz
+2024/07/29 16:28:37 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin/cygwin-3.5.3-1.tar.xz
+2024/07/29 16:28:37 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.17-1.tar.xz
+2024/07/29 16:28:37 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.22.4-1.tar.xz
+2024/07/29 16:28:37 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-6.5+20240427-1.tar.xz
+2024/07/29 16:28:37 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-8.2-2.tar.xz
+2024/07/29 16:28:37 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bash/bash-5.2.21-1.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-12.4.0-3.tar.zst
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/crypto-policies/crypto-policies-20190218-1.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-2.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zstd/libzstd1/libzstd1-1.5.6-1.tar.zst
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.3.1-1.tar.zst
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/krb5/libkrb5support0/libkrb5support0-1.15.2-2.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/e2fsprogs/libcom_err2/libcom_err2-1.44.5-1.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libedit/libedit0/libedit0-20221030-4.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libxcrypt/libcrypt2/libcrypt2-4.4.20-1.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygrunsrv/cygrunsrv-1.64-1.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xxhash/libxxhash0/libxxhash0-0.8.2-1.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-9.0.2155-2.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tzcode/tzcode-2024a-1.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/sshpass/sshpass-1.06-1.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/sed/sed-4.9-1.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/ncurses-6.5+20240427-1.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mintty/mintty-3.7.4-1.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/login/login-1.13-1.tar.xz
+2024/07/29 16:28:38 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.39.3-2.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.14-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-12.4.0-3.tar.zst
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.39.3-2.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.19-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.5.6-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/pcre2/libpcre2_8_0/libpcre2_8_0-10.44-1.tar.zst
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.45-1.tar.zst
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.6.2-1.tar.zst
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/lz4/liblz4_1/liblz4_1-1.9.4-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.3.0-1.tar.zst
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gdbm/libgdbm6/libgdbm6-1.18.1-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-2.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.8-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.39.3-2.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.5.1-1.20.g0981a7bfe487.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libargp/libargp-20230708-2.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.1-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gzip/gzip-1.13-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/editrights/editrights-1.04-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.10-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/dash/dash-0.5.12-5.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/alternatives/alternatives-1.26-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/krb5/libk5crypto3/libk5crypto3-1.15.2-2.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/uchardet/libuchardet0/libuchardet0-0.0.8-1.tar.zst
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygutils/cygutils-1.4.17-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/grep/grep-3.11-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/less/less-643-1.tar.xz
+2024/07/29 16:28:39 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/xz-5.6.2-1.tar.zst
+2024/07/29 16:28:40 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zstd/zstd-1.5.6-1.tar.zst
+2024/07/29 16:28:40 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mpfr/libmpfr6/libmpfr6-4.2.1-1.tar.zst
+2024/07/29 16:28:40 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.23.20-1.tar.xz
+2024/07/29 16:28:40 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/file/file-5.44-1.tar.xz
+2024/07/29 16:28:40 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/bzip2-1.0.8-1.tar.xz
+2024/07/29 16:28:40 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libfdisk1/libfdisk1-2.39.3-2.tar.xz
+2024/07/29 16:28:40 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/coreutils/coreutils-9.0-1.tar.xz
+2024/07/29 16:28:41 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-5.tar.xz
+2024/07/29 16:28:41 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rebase/rebase-4.6.6-1.tar.xz
+2024/07/29 16:28:41 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/texinfo/info/info-7.1-1.tar.xz
+2024/07/29 16:28:41 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001091-1.tar.zst
+2024/07/29 16:28:41 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/krb5/libkrb5_3/libkrb5_3-1.15.2-2.tar.xz
+2024/07/29 16:28:41 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/groff/groff-1.23.0-1.tar.zst
+2024/07/29 16:28:42 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gawk/gawk-5.3.0-1.tar.xz
+2024/07/29 16:28:42 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.20-1.tar.xz
+2024/07/29 16:28:42 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-0.23.20-1.tar.xz
+2024/07/29 16:28:42 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tar/tar-1.35-2.tar.zst
+2024/07/29 16:28:42 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/util-linux-2.39.3-2.tar.xz
+2024/07/29 16:28:43 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/findutils/findutils-4.10.0-1.tar.xz
+2024/07/29 16:28:43 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/krb5/libgssapi_krb5_2/libgssapi_krb5_2-1.15.2-2.tar.xz
+2024/07/29 16:28:43 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/csih/csih-0.9.14-1.tar.xz
+2024/07/29 16:28:43 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/ca-certificates/ca-certificates-2024.2.66_v8.0.302-1.tar.zst
+2024/07/29 16:28:43 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/man-db/man-db-2.12.1-1.tar.zst
+2024/07/29 16:28:43 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/base-files/base-files-4.3-3.tar.zst
+2024/07/29 16:28:43 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/libssl3/libssl3-3.0.14-1.tar.zst
+2024/07/29 16:28:43 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/libssl1.1/libssl1.1-1.1.1w-1.tar.zst
+2024/07/29 16:28:44 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/openssl-3.0.14-1.tar.zst
+2024/07/29 16:28:44 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libfido2/libfido2-1.12.0-1.tar.xz
+2024/07/29 16:28:44 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rsync/rsync-3.3.0-1.tar.xz
+2024/07/29 16:28:44 Extracting from file://C:\Users\seriab\Downloads/https%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssh/openssh-9.8p1-1.tar.xz
+2024/07/29 16:28:44 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2024/07/29 16:28:48 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2024/07/29 16:28:51 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2024/07/29 16:28:51 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2024/07/29 16:28:51 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+2024/07/29 16:28:53 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+2024/07/29 16:28:53 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/p11-kit.sh"
+2024/07/29 16:28:53 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2024/07/29 16:28:59 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/crypto-policies.sh"
+2024/07/29 16:29:00 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/openssl.sh"
+2024/07/29 16:29:00 can't run /etc/postinstall/openssl.sh: No such file
+2024/07/29 16:29:00 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2024/07/29 16:29:00 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/mintty.sh"
+2024/07/29 16:29:00 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/openssh.sh"
+2024/07/29 16:29:00 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/zp_man-db-update-index.dash"
+2024/07/29 16:29:27 note: Installation Complete
+2024/07/29 16:29:27 Ending cygwin install
