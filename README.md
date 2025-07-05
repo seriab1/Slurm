@@ -193,13 +193,6 @@ slurm-auto-deploy/
 └── putty/                     # Windows PuTTY tools
 ```
 
-## Security Considerations
-
-- Keep `_secret.ini` secure and never commit it to version control
-- Consider using SSH keys instead of passwords for production environments
-- Regularly update your SSH client and tools
-- Use strong passwords and enable two-factor authentication when available
-
 ## Troubleshooting
 
 ### Common Issues
@@ -242,7 +235,3 @@ This project includes and uses third-party software:
 - **Cygwin64**: A large collection of GNU and Open Source tools which provide functionality similar to a Linux distribution on Windows. Cygwin is maintained by Red Hat, Inc. and other contributors. For more information, visit [https://www.cygwin.com/](https://www.cygwin.com/)
 
 These tools are included for convenience and functionality on Windows systems. All credit and rights belong to their respective authors and maintainers. Users should comply with the licenses and terms of use of these third-party components.
-
----
-
-**Note**: This tool is designed for educational and research purposes. Always follow your institution's HPC usage policies and security guidelines.
